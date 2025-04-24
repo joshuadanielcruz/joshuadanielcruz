@@ -3,10 +3,10 @@
 🎓 I'm a Computer Systems Technology student at Mohawk College  
 💻 Currently working as a Software Engineering Intern @ Evertz Microsystems  
 🤖 Research Assistant on the TEMI Robot Project  
-📸 Passionate about filmmaking and music
-🔧 Skills: JavaScript, Python, React, .NET, Node.js, REST APIs, Android  
-☁️ Certified in Microsoft Azure Fundamentals  
-📍  Based in Canada  
+📸 Passionate about filmmaking and music<br>
+🔧 Skills: JavaScript, Python, React, .NET, Node.js, REST APIs, Android<br>
+☁️ Certified in Microsoft Azure Fundamentals<br>
+📍 Based in Canada<br>
 
 ---
 
