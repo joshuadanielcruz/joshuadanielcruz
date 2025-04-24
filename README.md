@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Josh Cruz!
 
-<!--
-**joshuadanielcruz/joshuadanielcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Systems Technology student at Mohawk College  
+💻 Currently working as a Software Engineering Intern @ Evertz Microsystems  
+🤖 Research Assistant on the TEMI Robot Project  
+📸 Passionate about filmmaking and music
+🔧 Skills: JavaScript, Python, React, .NET, Node.js, REST APIs, Android  
+☁️ Certified in Microsoft Azure Fundamentals  
+📍  Based in Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- 🧠 Enhancing the TEMI Robot with LLM and RAG capabilities  
+- 🎵 Music recommendation & concert calendar apps using Spotify API
+
+---
+
+### 📈 GitHub Stats
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanielcruz&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadanielcruz&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/joshuadanielcruz/)  
+- [Portfolio](https://joshuadanielcruz.github.io/)
+
+---
