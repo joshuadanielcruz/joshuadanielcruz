@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josh Cruz!
 
-🎓 I'm a Computer Systems Technology student at Mohawk College  
+🎓 I'm a Software Development student @ Mohawk College  
 💻 Currently working as a Software Engineering Intern @ Evertz Microsystems  
 🤖 Research Assistant on the TEMI Robot Project  
 📸 Passionate about filmmaking and music<br>
