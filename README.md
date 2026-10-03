@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Josh Cruz!
 
-🎓 I'm a Software Development student @ Mohawk College  
-💻 Currently working as a Software Engineering Intern @ Evertz Microsystems  
+💻 Currently working as a Design Verification Technologist @ Evertz Microsystems
+🎓 Graduated in Software Development @ Mohawk College  
 🤖 Research Assistant on the TEMI Robot Project  
 📸 Passionate about filmmaking and music<br>
 🔧 Skills: JavaScript, Python, React, .NET, Node.js, REST APIs, Android<br>
